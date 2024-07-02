@@ -1,0 +1,19 @@
+.card-container {
+    max-width: min-content;
+    max-height: max-content;
+    border-radius: 10px;
+    background-color: cadetblue;
+}
+
+.card-title {
+    font-size: 15px;
+}
+
+.sprite img {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.info-container {
+    font-size: 10px;
+}
